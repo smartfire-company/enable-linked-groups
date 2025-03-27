@@ -5,3 +5,5 @@
 Easily add links to Group blocks in WordPress.
 
 This example plugin serves to demonstrate how you can extend core WordPress blocks. Feel free to tweak, modify, and make it your own.
+
+> **Note:** This is a fork of the original repository that has been adapted to work with Composer through VCS (Version Control System). We've added Composer compatibility while maintaining all the original functionality.
